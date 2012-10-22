@@ -1,0 +1,4 @@
+myshell
+=======
+
+My shell settings.
