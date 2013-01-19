@@ -1,7 +1,22 @@
+#
+# Usual suspects
+#
 *.log
 *.patch
+
+#
+# Apple
+#
 .DS_Store
+
+#
+# Idea
+#
 .idea
-.gradle
 *.iml
+
+#
+# Builds
+#
+.gradle
 target
